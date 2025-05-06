@@ -29,7 +29,7 @@ Based on your mood and emotions, MindGuard offers helpful suggestions and resour
 - **Mood Detection:** Powered by sentiment analysis, MindGuard identifies your emotional state.
 - **Customizable:** Choose from a range of moods to log and track.
 
-## 🛠 Contributing
+##  Contributing
 
 If you'd like to contribute to MindGuard, please fork the repository, create a new branch, and submit a pull request with your changes. Contributions are always welcome!
 
