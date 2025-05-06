@@ -1,0 +1,45 @@
+.aboutContainer {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #f9fafb;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  }
+  
+  .heading {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #374151;
+    text-align: center;
+  }
+  
+  .subheading {
+    font-size: 1.25rem;
+    margin-top: 2rem;
+    color: #2563eb;
+  }
+  
+  ul {
+    margin-left: 1.25rem;
+    line-height: 1.6;
+  }
+  
+  li {
+    margin-bottom: 0.5rem;
+  }
+  
+  p {
+    line-height: 1.7;
+    margin-top: 1rem;
+  }
+  
+  .footerNote {
+    margin-top: 2rem;
+    font-style: italic;
+    color: #6b7280;
+    text-align: center;
+  }
+  
